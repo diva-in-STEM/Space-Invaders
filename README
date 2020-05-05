@@ -8,3 +8,6 @@ CONTROLS:
 1. Left (moves the character left) - Left arrow
 2. Right (moves the character right) - Right arrow
 3. Shoot (makes the player shoot upwards) - Space bar
+
+VERSION:
+Currently in Python 3.7
