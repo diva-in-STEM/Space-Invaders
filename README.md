@@ -7,15 +7,13 @@ A classic arcade experience reborn in Python. Relive the iconic battle against a
 ![Stars](https://img.shields.io/github/stars/diva-in-STEM/Space-Invaders?style=social)
 ![Forks](https://img.shields.io/github/forks/diva-in-STEM/Space-Invaders?style=social)
 
-![Space Invaders Gameplay Preview](/preview_example.png)
-
 
 ## ✨ Features
 
-*   👾 **Classic Arcade Gameplay:** Experience the timeless fun of the original Space Invaders, faithfully recreated.
-*   🔊 **Dynamic Sound Effects:** Immerse yourself with authentic audio for laser shots, alien movements, and explosions.
-*   🎮 **Simple & Intuitive Controls:** Easy-to-learn controls mean you can jump straight into the action.
-*   🖼️ **Retro Pixel-Art Graphics:** Enjoy nostalgic visuals with pixel-perfect sprites and a captivating background.
+*   👾 **Classic Arcade Gameplay:** Experience the timeless fun of the original Space Invaders, recreated with Python.
+*   🔊 **Dynamic Sound Effects:** Fun audio for laser shots, alien movements, and explosions.
+*   🎮 **Simple & Intuitive Controls:** Easy-to-learn controls.
+*   🖼️ **Retro Pixel-Art Graphics:** Enjoy nostalgic visuals with pixel sprites.
 *   🎯 **Score Tracking:** Challenge yourself to achieve the highest score and defend the galaxy!
 
 
